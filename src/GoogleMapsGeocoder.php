@@ -1,5 +1,7 @@
 <?php
 
+  namespace napravicukod;
+
   /**
    * A PHP wrapper for the Google Maps Geocoding API v3.
    *
